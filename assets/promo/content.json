@@ -1,0 +1,78 @@
+{
+  "identity": {
+    "handle": "LordJohan-9",
+    "name": "Aria Raoufi",
+    "roles": [
+      "Software Developer",
+      "AI Engineer",
+      "Backend Developer",
+      "Machine Learning Engineer"
+    ],
+    "education": "Undergraduate computer engineering student",
+    "institution": "Budapest University of Technology and Economics (BME)",
+    "focus": [
+      "Neural networks",
+      "Machine learning algorithms"
+    ]
+  },
+  "skills": [
+    "Python",
+    "C++",
+    "Java",
+    "Pandas",
+    "TensorFlow",
+    "Keras",
+    "PyTorch",
+    "Git",
+    "GitHub"
+  ],
+  "brain_regions": [
+    {
+      "name": "frontal",
+      "skills": ["Python", "C++", "Java"]
+    },
+    {
+      "name": "parietal",
+      "skills": ["Pandas"]
+    },
+    {
+      "name": "temporal",
+      "skills": ["TensorFlow", "Keras", "PyTorch"]
+    },
+    {
+      "name": "cerebellum",
+      "skills": ["Git", "GitHub"]
+    }
+  ],
+  "links": {
+    "github": "https://github.com/LordJohan-9",
+    "email": "raoufiari@edu.bme.hu"
+  },
+  "boot_lines": [
+    "python", "c++", "java", "pandas", "tensorflow",
+    "keras", "pytorch", "git", "github", "ready"
+  ],
+  "badge_labels": {
+    "github": "GITHUB",
+    "email": "EMAIL"
+  },
+  "ui": {
+    "boot_heading": "init / profile.stack",
+    "terminal_prompt": "$",
+    "boot_ok": "[ ok ]",
+    "prompt_suffix": "on main",
+    "prompt_arrow": ">",
+    "whoami": "whoami",
+    "role_label": "role",
+    "studying_label": "studying",
+    "focus_label": "focus",
+    "training_command": "python train.py",
+    "training_caption": "two-moons classification",
+    "loss_label": "loss",
+    "epoch_label": "epoch",
+    "accuracy_label": "accuracy",
+    "status_label": "SYSTEM READY",
+    "brain_label": "cortex map",
+    "signoff_label": "profile"
+  }
+}
